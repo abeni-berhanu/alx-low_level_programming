@@ -2,6 +2,7 @@
 /**
  * main-fun
  * uppuer case and lower case
+ *return
  */
 int main(void)
 {
