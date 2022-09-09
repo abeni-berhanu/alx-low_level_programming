@@ -1,12 +1,14 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - Entry point
  *
- * Return: Always 0 (success/correct)
+ * Return: Always 0 (Success/correct)
  */
 int main(void)
+
 {
 int number;
+
 
 for (number = 0; number <= 9; number++)
 {
@@ -18,7 +20,7 @@ break;
 }
 
 putchar(',');
-putchar(' ');
+putchar (' ');
 }
 
 putchar('\n');
