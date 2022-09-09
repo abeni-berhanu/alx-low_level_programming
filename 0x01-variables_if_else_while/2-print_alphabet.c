@@ -1,6 +1,7 @@
 #include <stdio.h>
-/* This is the comment I wrote in c for the first time */
-
+/* This is the comment I wrote in
+ *
+ main - c for the first time */
 int main(void)
 
 {
