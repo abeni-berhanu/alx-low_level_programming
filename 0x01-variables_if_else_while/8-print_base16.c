@@ -6,10 +6,10 @@
  */
 int main(void)
 {
-int num;
+char num;
 char hexa;
 
-for (num = 0; num <= 9; num++)
+for (num = '0'; num <= '9'; num++)
 {
 putchar(num);
 }
