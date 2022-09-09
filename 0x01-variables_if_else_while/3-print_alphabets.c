@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main-fun
- * uppuer case and lower case
- *return
+ * main - entry point
+ *
+ * return - always 0 (success)
  */
 int main(void)
 {
