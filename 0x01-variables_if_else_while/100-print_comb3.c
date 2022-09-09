@@ -15,13 +15,13 @@ for (number_left = 0; number_left <= 9; number_left++)
 {
 for (number_right = 0; number_right <= 9; number_right++)
 {
-if ((number_left == number_right)
-putchar(number_left);
-putchar (number_right);
-
+if (number_left == number_right)
 {
 continue;
 }
+  
+putchar(number_left);
+putchar (number_right);
 
 putchar(',');
 putchar (' ');
