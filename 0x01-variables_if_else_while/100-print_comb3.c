@@ -11,17 +11,19 @@ int number_left;
 int number_right;
 
 
-for (number_left = 0; number_left <= 9; number_left++)
+for (number_left = 48; number_right <= 78; number_left++)
 {
-for (number_right = 0; number_right <= 9; number_right++)
+for (number_right = number_left + 1 ; number_right <= 78; number_right++)
 {
-if (number_left == number_right)
-{
-continue;
-}
-  
+
 putchar(number_left);
 putchar (number_right);
+
+
+if ((number_left == 56) && (number_right == 78))
+{
+break;
+}
 
 putchar(',');
 putchar (' ');
@@ -32,6 +34,9 @@ putchar (' ');
 
 putchar('\n');
 
+
 return (0);
 
+
 }
+Footer
