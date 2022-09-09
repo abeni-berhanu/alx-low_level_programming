@@ -1,6 +1,9 @@
 #include <stdio.h>
-/* This is the comment I wrote in c for the first time */
-
+/**
+ * main -Entry point
+ *
+ * Return: Always 0 (Success/correct)
+ */
 int main(void)
 
 {
