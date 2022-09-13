@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet_x10 - prints alphabets 10  
+ * print_alphabet_x10 - prints alphabets 10
  *
  * Description: prints 10 times
  * Return: Always(0)
@@ -16,7 +16,7 @@ char ch = 'a';
 
 while (ch <= 'z')
 {
-_putchar(ch); 
+_putchar(ch);
 ch++;
 }
 alphabet_count++;
