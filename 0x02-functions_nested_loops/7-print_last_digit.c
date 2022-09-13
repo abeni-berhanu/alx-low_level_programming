@@ -16,6 +16,6 @@ last = last * -1;
 
 _putchar(last);
 
-return (last);
+return (last + '0');
 
 }
