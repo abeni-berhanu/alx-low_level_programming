@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - Entry point
- *print_alphabet: print alphabet 
+ *print_alphabet - print alphabet
  *Return: nothing, return void
  */
 void print_alphabet(void)
