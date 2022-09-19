@@ -2,7 +2,7 @@
 
 /**
  * main - reset to 98
- *
+ *reset_to_98 - resets to 98
  * return: 0
  */
 
