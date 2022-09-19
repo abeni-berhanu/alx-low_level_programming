@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - reset to 98
- *reset_to_98 - resets to 98
+ * reset_to_98 - reset argument to 98
+ * @n: pointer
  * return: 0
  */
 
