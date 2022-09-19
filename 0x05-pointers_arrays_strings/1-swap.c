@@ -4,7 +4,7 @@
  * @a - pointer 1
  * @b -pointer 2
  * @h -host
- * return: 0
+ * Return: 0
  */
 void swap_int(int *a, int *b)
 {
